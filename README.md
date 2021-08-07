@@ -1,2 +1,5 @@
-# sharing-github
-PYTHON TREE data structure
+Data Structure : 
+ 1. stack
+ 2. queue
+ 3. tree traversal
+
